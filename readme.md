@@ -13,4 +13,5 @@ This repo is intended to demonstrate how we handle your data - if you have any q
 Available now on the app stores:
 
 iOS: https://itunes.apple.com/gb/app/vapor-a-steem-app/id1359525246
+
 Android: https://play.google.com/store/apps/details?id=com.vapor
